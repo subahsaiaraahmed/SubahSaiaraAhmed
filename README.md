@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi all, I'm Subah 👋
+💻 Software Engineering Student
+🎨 Graphic Designer | 🎥 Aspiring Vlogger | 🌱 Volunteer  
+😄 Pronouns: She/Her  
 
-<!--
-**subahsaiaraahmed/SubahSaiaraAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Fun fact: I’ve balanced coding projects, art commissions, and leadership roles — often all in the same week.  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML, CSS, JavaScript
+- React (learning)
+- Graphic Design (Adobe Creative Cloud), UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:  
+- React & API integration  
+- UI/UX design principles  
+- Advanced graphic design in Adobe Creative Cloud
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SubahSaiaraAhmed)
